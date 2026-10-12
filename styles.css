@@ -514,6 +514,11 @@ button:focus-visible, a:focus-visible, input:focus-visible {
   cursor: pointer;
 }
 
+.station-card__main:disabled {
+  cursor: not-allowed;
+  opacity: 0.72;
+}
+
 .station-card__art-wrap {
   position: relative;
   flex: 0 0 56px;
@@ -524,7 +529,7 @@ button:focus-visible, a:focus-visible, input:focus-visible {
   width: 56px;
   height: 56px;
   display: block;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 8px;
   background: #2b3327;
 }

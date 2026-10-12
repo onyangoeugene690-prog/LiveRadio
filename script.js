@@ -176,7 +176,7 @@ function StationArtwork({
     return /*#__PURE__*/React.createElement("img", {
       className: `station-art${compact ? " station-art--compact" : ""}`,
       src: station.logo,
-      alt: "",
+      alt: `${name} logo`,
       loading: "lazy",
       referrerPolicy: "no-referrer",
       onError: () => setImageFailed(true)
@@ -200,6 +200,7 @@ function StationCard({
   const tags = rawTags.split(",").map(tag => tag.trim()).filter(Boolean).slice(0, 2);
   const stationName = station.name || "Radio Station";
   const stationLang = station.language || "Kenyan radio";
+  const streamAvailable = Boolean(station.streamUrl || station.streamUrls?.some(Boolean));
   return /*#__PURE__*/React.createElement("article", {
     className: `station-card${isPlaying ? " station-card--active" : ""}`
   }, /*#__PURE__*/React.createElement("button", {
@@ -213,6 +214,9 @@ function StationCard({
   })), /*#__PURE__*/React.createElement("button", {
     className: "station-card__main",
     type: "button",
+    disabled: !streamAvailable,
+    "aria-label": streamAvailable ? `Play ${stationName}` : `${stationName} has no listed stream`,
+    title: streamAvailable ? undefined : "No stream is listed for this station yet.",
     onClick: () => onPlay(station)
   }, /*#__PURE__*/React.createElement("div", {
     className: "station-card__art-wrap"
@@ -242,7 +246,7 @@ function StationCard({
     className: "station-card__footer"
   }, /*#__PURE__*/React.createElement("span", null, /*#__PURE__*/React.createElement(Signal, {
     size: 13
-  }), " ", station.codec || "LIVE", station.bitrate ? ` · ${station.bitrate} kbps` : ""), station.website && /*#__PURE__*/React.createElement("a", {
+  }), streamAvailable ? `${station.codec || "LIVE"}${station.bitrate ? ` · ${station.bitrate} kbps` : ""}` : "STREAM NOT LISTED"), station.website && /*#__PURE__*/React.createElement("a", {
     href: station.website,
     target: "_blank",
     rel: "noreferrer",

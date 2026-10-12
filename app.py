@@ -947,11 +947,30 @@ def fetch_directory_data() -> list[dict[str, object]]:
     return []
 
 
+def load_static_stations() -> list[dict[str, object]]:
+    try:
+        with (ROOT / "stations.json").open(encoding="utf-8") as station_file:
+            data = json.load(station_file)
+    except (OSError, json.JSONDecodeError) as error:
+        app.logger.error("Unable to read static station directory: %s", error)
+        return CURATED_FALLBACK_STATIONS.copy()
+
+    if not isinstance(data, dict) or not isinstance(data.get("stations"), list):
+        app.logger.error("Static station directory has an invalid format.")
+        return CURATED_FALLBACK_STATIONS.copy()
+
+    return [
+        station
+        for station in data["stations"]
+        if isinstance(station, dict) and str(station.get("name", "")).strip()
+    ]
+
+
 def load_stations() -> list[dict[str, object]]:
     directory_data = fetch_directory_data()
     if not directory_data:
-        app.logger.warning("Directory mirrors failed or returned empty. Using curated fallback stations.")
-        return CURATED_FALLBACK_STATIONS.copy()
+        app.logger.warning("Directory mirrors failed or returned empty. Using the static station directory.")
+        return load_static_stations()
 
     stations = []
     seen_ids = set()
@@ -1047,9 +1066,47 @@ def load_stations() -> list[dict[str, object]]:
                 "votes": max(existing_station.get("votes", 0), featured_station.get("votes", 0)),
             }
 
+    seen_names = {
+        (featured_name(str(station.get("name", ""))) or str(station.get("name", "")).strip()).casefold()
+        for station in stations
+    }
+    static_stations = load_static_stations()
+    existing_static_names = {str(station.get("name", "")).strip().casefold() for station in static_stations}
+    merged_stations = []
+    for static_station in static_stations:
+        static_name = str(static_station.get("name", "")).strip()
+        normalized_name = (featured_name(static_name) or static_name).casefold()
+        if not normalized_name:
+            continue
+        existing_station = next(
+            (
+                station
+                for station in stations
+                if (featured_name(str(station.get("name", ""))) or str(station.get("name", "")).strip()).casefold()
+                == normalized_name
+            ),
+            None,
+        )
+        if existing_station:
+            merged_stations.append(
+                {
+                    **existing_station,
+                    "logo": static_station.get("logo", ""),
+                }
+            )
+        elif normalized_name not in seen_names:
+            merged_stations.append(static_station.copy())
+        else:
+            continue
+        seen_names.add(normalized_name)
+        if len(merged_stations) >= 100:
+            break
+
+    stations = merged_stations
+
     priority = {station["name"]: index for index, station in enumerate(FEATURED_STATIONS)}
     stations.sort(key=lambda station: priority.get(station["name"], len(priority) + 100))
-    return stations
+    return stations[:100]
 
 
 def _async_refresh_cache():
@@ -1069,7 +1126,7 @@ def get_cached_stations() -> list[dict[str, object]]:
         if _stations_cache and time.monotonic() - _stations_cache[0] < CACHE_SECONDS:
             return _stations_cache[1]
 
-        cached = _stations_cache[1] if _stations_cache else CURATED_FALLBACK_STATIONS.copy()
+        cached = _stations_cache[1] if _stations_cache else load_static_stations()
         _stations_cache = (time.monotonic(), cached)
 
     threading.Thread(target=_async_refresh_cache, daemon=True).start()
@@ -1079,7 +1136,8 @@ def get_cached_stations() -> list[dict[str, object]]:
 def ordered_stream_urls(station: dict[str, object]) -> list[str]:
     raw_stream_urls = station.get("streamUrls")
     if not isinstance(raw_stream_urls, list) or not raw_stream_urls:
-        raw_stream_urls = [station["streamUrl"]]
+        stream_url = station.get("streamUrl")
+        raw_stream_urls = [stream_url] if isinstance(stream_url, str) and stream_url else []
 
     # Put direct audio streams first for instant native HTML5 audio playback in browsers,
     # followed by HLS playlists as secondary.
@@ -1092,6 +1150,13 @@ def ordered_stream_urls(station: dict[str, object]) -> list[str]:
 def station_response(station: dict[str, object]) -> dict[str, object]:
     station_id = str(station["id"])
     raw_stream_urls = ordered_stream_urls(station)
+    raw_logo = station.get("logo")
+    logo = (
+        raw_logo
+        if is_http_url(raw_logo)
+        or isinstance(raw_logo, str) and re.fullmatch(r"/logos/[a-z0-9-]+\.png", raw_logo)
+        else ""
+    )
 
     proxied_streams = [
         url_for("station_stream", station_id=station_id, stream_index=index)
@@ -1107,7 +1172,8 @@ def station_response(station: dict[str, object]) -> dict[str, object]:
 
     return {
         **station,
-        "streamUrl": combined_streams[0],
+        "logo": logo,
+        "streamUrl": combined_streams[0] if combined_streams else "",
         "streamUrls": combined_streams,
         "streamTypes": combined_types,
     }

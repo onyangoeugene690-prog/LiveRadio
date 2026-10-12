@@ -147,13 +147,12 @@ function StationArtwork({ station, compact = false }) {
     .map((part) => part[0])
     .join("")
     .toUpperCase();
-
   if (station?.logo && !imageFailed) {
     return (
       <img
         className={`station-art${compact ? " station-art--compact" : ""}`}
         src={station.logo}
-        alt=""
+        alt={`${name} logo`}
         loading="lazy"
         referrerPolicy="no-referrer"
         onError={() => setImageFailed(true)}
@@ -180,6 +179,7 @@ function StationCard({ station, isPlaying, isFavorite, onPlay, onFavorite }) {
 
   const stationName = station.name || "Radio Station";
   const stationLang = station.language || "Kenyan radio";
+  const streamAvailable = Boolean(station.streamUrl || station.streamUrls?.some(Boolean));
 
   return (
     <article className={`station-card${isPlaying ? " station-card--active" : ""}`}>
@@ -191,7 +191,14 @@ function StationCard({ station, isPlaying, isFavorite, onPlay, onFavorite }) {
       >
         <Heart size={17} fill={isFavorite ? "currentColor" : "none"} />
       </button>
-      <button className="station-card__main" type="button" onClick={() => onPlay(station)}>
+      <button
+        className="station-card__main"
+        type="button"
+        disabled={!streamAvailable}
+        aria-label={streamAvailable ? `Play ${stationName}` : `${stationName} has no listed stream`}
+        title={streamAvailable ? undefined : "No stream is listed for this station yet."}
+        onClick={() => onPlay(station)}
+      >
         <div className="station-card__art-wrap">
           <StationArtwork station={station} />
           <span className="station-card__play">
@@ -209,7 +216,10 @@ function StationCard({ station, isPlaying, isFavorite, onPlay, onFavorite }) {
         </div>
       </button>
       <div className="station-card__footer">
-        <span><Signal size={13} /> {station.codec || "LIVE"}{station.bitrate ? ` · ${station.bitrate} kbps` : ""}</span>
+        <span>
+          <Signal size={13} />
+          {streamAvailable ? `${station.codec || "LIVE"}${station.bitrate ? ` · ${station.bitrate} kbps` : ""}` : "STREAM NOT LISTED"}
+        </span>
         {station.website && (
           <a href={station.website} target="_blank" rel="noreferrer" aria-label={`Visit ${stationName} website`}>
             <ArrowUpRight size={15} />

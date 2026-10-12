@@ -14,7 +14,7 @@
         "audio"
       ],
       "website": "https://www.royalmedia.co.ke/brands/radio-citizen/",
-      "logo": "",
+      "logo": "/logos/radiocitizen.png",
       "tags": "news, talk, music, swahili",
       "language": "Swahili",
       "state": "Nairobi",
@@ -36,7 +36,7 @@
         "audio"
       ],
       "website": "https://radiojambo.co.ke/",
-      "logo": "",
+      "logo": "https://www.radiojambo.co.ke/assets/img/logo.webp",
       "tags": "talk, sports, music, swahili",
       "language": "Swahili",
       "state": "Nairobi",
@@ -122,7 +122,7 @@
         "audio"
       ],
       "website": "https://www.capitalfm.co.ke/",
-      "logo": "",
+      "logo": "https://capitalfm.africa/wp-content/uploads/2026/05/cropped-cfmlogo-1-300x300.jpg",
       "tags": "news, music, talk, urban",
       "language": "English",
       "state": "Nairobi",
@@ -144,7 +144,7 @@
         "audio"
       ],
       "website": "https://www.royalmedia.co.ke/brands/ramogi-fm/",
-      "logo": "",
+      "logo": "/logos/ramogi-fm-logo-min.png",
       "tags": "music, news, talk, vernacular",
       "language": "Dholuo",
       "state": "Kisumu",
@@ -166,7 +166,7 @@
         "audio"
       ],
       "website": "https://www.standardmedia.co.ke/radiomaisha/",
-      "logo": "",
+      "logo": "https://www.standardmedia.co.ke/radiomaisha/assets/images/logo.png",
       "tags": "music, news, talk, swahili",
       "language": "Swahili",
       "state": "Nairobi",
@@ -232,7 +232,7 @@
         "audio"
       ],
       "website": "https://www.royalmedia.co.ke/brands/inooro-fm/",
-      "logo": "",
+      "logo": "/logos/inoorofm.png",
       "tags": "music, news, vernacular",
       "language": "Kikuyu",
       "state": "Nairobi",
@@ -254,7 +254,7 @@
         "audio"
       ],
       "website": "https://www.standardmedia.co.ke/spicefm/",
-      "logo": "",
+      "logo": "https://www.standardmedia.co.ke/spicefm/assets/images/logo.png",
       "tags": "talk, music, soul, discussion",
       "language": "English",
       "state": "Nairobi",
@@ -274,7 +274,7 @@
         "audio"
       ],
       "website": "https://radio47.co.ke/",
-      "logo": "",
+      "logo": "https://yt3.googleusercontent.com/a3-veb-GPFI4o15P_DyjAXssVg_TTKGAjdgsWL_Iuvev83rzTB3xUfmoMxrMkbpNfO9IuFmT=s900-c-k-c0x00ffffff-no-rj",
       "tags": "news, entertainment, talk, swahili",
       "language": "Swahili",
       "state": "Nairobi",
@@ -296,7 +296,7 @@
         "audio"
       ],
       "website": "https://hot96.co.ke/",
-      "logo": "",
+      "logo": "/logos/hot96.png",
       "tags": "music, urban, hits",
       "language": "English",
       "state": "Nairobi",
@@ -338,7 +338,7 @@
         "audio"
       ],
       "website": "https://ghettoradio.co.ke/",
-      "logo": "",
+      "logo": "https://i0.wp.com/ghettoradio.co.ke/wp-content/uploads/2024/09/ghetto-radio-favicon.png?fit=270%2C270&ssl=1",
       "tags": "reggae, sheng, urban, community",
       "language": "Sheng",
       "state": "Nairobi",
@@ -422,7 +422,7 @@
         "audio"
       ],
       "website": "https://www.royalmedia.co.ke/",
-      "logo": "",
+      "logo": "/logos/baharifm.png",
       "tags": "music, news, coastal",
       "language": "Swahili",
       "state": "Mombasa",
@@ -444,7 +444,7 @@
         "audio"
       ],
       "website": "https://www.royalmedia.co.ke/",
-      "logo": "",
+      "logo": "/logos/egesafm.png",
       "tags": "music, news, vernacular",
       "language": "Ekegusii",
       "state": "Kisii",
@@ -466,7 +466,7 @@
         "audio"
       ],
       "website": "https://www.royalmedia.co.ke/",
-      "logo": "",
+      "logo": "/logos/mulembefm.png",
       "tags": "music, news, vernacular",
       "language": "Luhya",
       "state": "Kakamega",
@@ -488,7 +488,7 @@
         "audio"
       ],
       "website": "https://www.royalmedia.co.ke/",
-      "logo": "",
+      "logo": "/logos/musyifm.png",
       "tags": "music, news, vernacular",
       "language": "Kamba",
       "state": "Machakos",
@@ -510,7 +510,7 @@
         "audio"
       ],
       "website": "https://www.royalmedia.co.ke/",
-      "logo": "",
+      "logo": "https://royalmedia.co.ke/wp-content/uploads/2023/09/chamgei-fm.jpg",
       "tags": "music, news, vernacular",
       "language": "Kalenjin",
       "state": "Eldoret",
@@ -532,7 +532,7 @@
         "audio"
       ],
       "website": "https://www.royalmedia.co.ke/",
-      "logo": "",
+      "logo": "/logos/wimwarofm.png",
       "tags": "music, news, vernacular",
       "language": "Embu",
       "state": "Embu",
@@ -554,7 +554,7 @@
         "audio"
       ],
       "website": "https://www.royalmedia.co.ke/",
-      "logo": "",
+      "logo": "/logos/vuukafm.png",
       "tags": "music, news, vernacular",
       "language": "Maragoli",
       "state": "Vihiga",
@@ -660,7 +660,7 @@
         "audio"
       ],
       "website": "https://www.jesusislordradio.info/",
-      "logo": "",
+      "logo": "https://static.wixstatic.com/media/a5f063_8caa1453b6ec4d0cb0016b8d0036b75d~mv2.png/v1/fill/w_228,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a5f063_8caa1453b6ec4d0cb0016b8d0036b75d~mv2.png",
       "tags": "gospel, christian, worship",
       "language": "English",
       "state": "Nairobi",
@@ -720,7 +720,7 @@
         "audio"
       ],
       "website": "https://taachfm.co.ke/",
-      "logo": "",
+      "logo": "https://taachfm.co.ke/wp-content/uploads/2021/02/cropped-c1-2.jpg",
       "tags": "music, news, vernacular, kalenjin",
       "language": "Kalenjin",
       "state": "Kericho",
@@ -740,7 +740,7 @@
         "audio"
       ],
       "website": "https://campusradio.co.ke/",
-      "logo": "",
+      "logo": "https://www.campusradio.co.ke/wp-content/uploads/2019/09/favicon-2.jpg",
       "tags": "youth, campus, music, urban",
       "language": "English",
       "state": "Nairobi",
@@ -847,6 +847,1160 @@
       "codec": "MP3",
       "bitrate": 128,
       "votes": 105,
+      "featured": false
+    },
+    {
+      "id": "kbc-radio-taifa",
+      "name": "KBC Radio Taifa",
+      "streamUrl": "",
+      "streamUrls": [],
+      "streamTypes": [],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "https://www.kbc.co.ke/wp-content/uploads/2023/06/radio-taifa.jpg",
+      "tags": "news, talk, public service",
+      "language": "Swahili",
+      "state": "Nairobi",
+      "codec": "",
+      "bitrate": 0,
+      "votes": 0,
+      "featured": false
+    },
+    {
+      "id": "kbc-eastern-service",
+      "name": "KBC Eastern Service",
+      "streamUrl": "",
+      "streamUrls": [],
+      "streamTypes": [],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "",
+      "tags": "news, talk, public service",
+      "language": "Kamba",
+      "state": "Eastern Kenya",
+      "codec": "",
+      "bitrate": 0,
+      "votes": 0,
+      "featured": false
+    },
+    {
+      "id": "kbc-western-service",
+      "name": "KBC Western Service",
+      "streamUrl": "",
+      "streamUrls": [],
+      "streamTypes": [],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "",
+      "tags": "news, talk, public service",
+      "language": "English",
+      "state": "Western Kenya",
+      "codec": "",
+      "bitrate": 0,
+      "votes": 0,
+      "featured": false
+    },
+    {
+      "id": "kbc-coro-fm",
+      "name": "Coro FM",
+      "streamUrl": "",
+      "streamUrls": [],
+      "streamTypes": [],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "https://www.kbc.co.ke/wp-content/uploads/2023/06/coro-fm.jpg",
+      "tags": "news, talk, public service",
+      "language": "Kikuyu",
+      "state": "Central Kenya",
+      "codec": "",
+      "bitrate": 0,
+      "votes": 0,
+      "featured": false
+    },
+    {
+      "id": "kbc-pwani-fm",
+      "name": "Pwani FM",
+      "streamUrl": "",
+      "streamUrls": [],
+      "streamTypes": [],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "https://www.kbc.co.ke/wp-content/uploads/2023/06/pwani-fm-1.jpg",
+      "tags": "news, talk, public service",
+      "language": "Swahili",
+      "state": "Coast",
+      "codec": "",
+      "bitrate": 0,
+      "votes": 0,
+      "featured": false
+    },
+    {
+      "id": "kbc-nosim-fm",
+      "name": "Nosim FM",
+      "streamUrl": "",
+      "streamUrls": [],
+      "streamTypes": [],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "https://www.kbc.co.ke/wp-content/uploads/2023/06/nosim-fm-1.jpg",
+      "tags": "news, talk, public service",
+      "language": "Maasai",
+      "state": "Rift Valley",
+      "codec": "",
+      "bitrate": 0,
+      "votes": 0,
+      "featured": false
+    },
+    {
+      "id": "kbc-minto-fm",
+      "name": "Minto FM",
+      "streamUrl": "",
+      "streamUrls": [],
+      "streamTypes": [],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "https://www.kbc.co.ke/wp-content/uploads/2023/06/minto-fm.jpg",
+      "tags": "news, talk, public service",
+      "language": "Kisii",
+      "state": "Nyanza",
+      "codec": "",
+      "bitrate": 0,
+      "votes": 0,
+      "featured": false
+    },
+    {
+      "id": "kbc-kitwek-fm",
+      "name": "Kitwek FM",
+      "streamUrl": "",
+      "streamUrls": [],
+      "streamTypes": [],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "https://www.kbc.co.ke/wp-content/uploads/2023/06/kitwek-fm.jpg",
+      "tags": "news, talk, public service",
+      "language": "Kalenjin",
+      "state": "Rift Valley",
+      "codec": "",
+      "bitrate": 0,
+      "votes": 0,
+      "featured": false
+    },
+    {
+      "id": "kbc-mayienga-fm",
+      "name": "Mayienga FM",
+      "streamUrl": "",
+      "streamUrls": [],
+      "streamTypes": [],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "https://www.kbc.co.ke/wp-content/uploads/2023/06/mayienga-fm-1.jpg",
+      "tags": "news, talk, public service",
+      "language": "Luo",
+      "state": "Nyanza",
+      "codec": "",
+      "bitrate": 0,
+      "votes": 0,
+      "featured": false
+    },
+    {
+      "id": "kbc-mwatu-fm",
+      "name": "Mwatu FM",
+      "streamUrl": "",
+      "streamUrls": [],
+      "streamTypes": [],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "https://www.kbc.co.ke/wp-content/uploads/2023/06/mwatu-fm.jpg",
+      "tags": "news, talk, public service",
+      "language": "Kamba",
+      "state": "Eastern Kenya",
+      "codec": "",
+      "bitrate": 0,
+      "votes": 0,
+      "featured": false
+    },
+    {
+      "id": "kbc-mwago-fm",
+      "name": "Mwago FM",
+      "streamUrl": "",
+      "streamUrls": [],
+      "streamTypes": [],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "https://www.kbc.co.ke/wp-content/uploads/2023/06/mwago-fm.jpg",
+      "tags": "news, talk, public service",
+      "language": "Embu",
+      "state": "Eastern Kenya",
+      "codec": "",
+      "bitrate": 0,
+      "votes": 0,
+      "featured": false
+    },
+    {
+      "id": "kbc-ingo-fm",
+      "name": "Ingo FM",
+      "streamUrl": "",
+      "streamUrls": [],
+      "streamTypes": [],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "https://www.kbc.co.ke/wp-content/uploads/2023/06/ingo-fm-1.jpg",
+      "tags": "news, talk, public service",
+      "language": "Luhya",
+      "state": "Western Kenya",
+      "codec": "",
+      "bitrate": 0,
+      "votes": 0,
+      "featured": false
+    },
+    {
+      "id": "kbc-iftiin-fm",
+      "name": "Iftiin FM",
+      "streamUrl": "",
+      "streamUrls": [],
+      "streamTypes": [],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "https://www.kbc.co.ke/wp-content/uploads/2023/06/iftiin-fm-1.jpg",
+      "tags": "news, talk, public service",
+      "language": "Somali",
+      "state": "North Eastern Kenya",
+      "codec": "",
+      "bitrate": 0,
+      "votes": 0,
+      "featured": false
+    },
+    {
+      "id": "262c5929-b34f-4440-886f-9adcaa480c1f",
+      "name": "REGGAE ROOTS",
+      "streamUrl": "http://relay5.181.fm:8096/",
+      "streamUrls": [
+        "http://relay5.181.fm:8096/"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://relay5.181.fm:8096/",
+      "logo": "https://www.kbc.co.ke/wp-content/uploads/2023/06/mwatu-fm.jpg",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 1657,
+      "featured": false
+    },
+    {
+      "id": "44bb6b74-7d40-422e-aaa4-2da831d58a17",
+      "name": "KBC",
+      "streamUrl": "http://stream.zeno.fm/ud2u96xst5quv",
+      "streamUrls": [
+        "http://stream.zeno.fm/ud2u96xst5quv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 1623,
+      "featured": false
+    },
+    {
+      "id": "cde57b4c-11d1-49a0-b7e3-98f5f943653f",
+      "name": "ghetto kenya",
+      "streamUrl": "https://stream.zeno.fm/kvudezx1h2zuv",
+      "streamUrls": [
+        "https://stream.zeno.fm/kvudezx1h2zuv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://stream.zeno.fm/kvudezx1h2zuv",
+      "logo": "https://i0.wp.com/ghettoradio.co.ke/wp-content/uploads/2024/09/ghetto-radio-favicon.png?fit=270%2C270&ssl=1",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 1271,
+      "featured": false
+    },
+    {
+      "id": "060d26ef-0252-49ea-a276-c0b7acfeca6b",
+      "name": "NATION KENYA",
+      "streamUrl": "http://stream.radiojar.com/3by7s8eg65quv",
+      "streamUrls": [
+        "http://stream.radiojar.com/3by7s8eg65quv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://stream.radiojar.com/3by7s8eg65quv",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "votes": 1171,
+      "featured": false
+    },
+    {
+      "id": "315f16b5-041b-4d95-8b58-74b13e393f20",
+      "name": "GHETTOO KENYA",
+      "streamUrl": "http://stream.zeno.fm/cs4q33arb2zuv",
+      "streamUrls": [
+        "http://stream.zeno.fm/cs4q33arb2zuv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://stream.zeno.fm/cs4q33arb2zuv",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 1009,
+      "featured": false
+    },
+    {
+      "id": "d649d156-9198-45c6-b8f7-b5f0fc35937e",
+      "name": "classic",
+      "streamUrl": "http://media-ice.musicradio.com/ClassicFMMP3",
+      "streamUrls": [
+        "http://media-ice.musicradio.com/ClassicFMMP3"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://media-ice.musicradio.com/ClassicFMMP3",
+      "logo": "",
+      "tags": "classic",
+      "language": "english",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 841,
+      "featured": false
+    },
+    {
+      "id": "baf2db38-c095-418c-beca-c87136dacd1d",
+      "name": "NRG KENYA",
+      "streamUrl": "https://streamingv2.shoutcast.com/nrg-radio-ke",
+      "streamUrls": [
+        "https://streamingv2.shoutcast.com/nrg-radio-ke"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://streamingv2.shoutcast.com/nrg-radio-ke",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 678,
+      "featured": false
+    },
+    {
+      "id": "14e9b3f0-748d-417f-8373-b94844c5df38",
+      "name": "IRIE FM JAMAICA",
+      "streamUrl": "http://stream.zeno.fm/6zszyw9tarzuv",
+      "streamUrls": [
+        "http://stream.zeno.fm/6zszyw9tarzuv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://stream.zeno.fm/6zszyw9tarzuv",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 580,
+      "featured": false
+    },
+    {
+      "id": "78571cf1-1aa9-4e65-a456-3cfaffe20a55",
+      "name": "GHETTOKE KENYA",
+      "streamUrl": "http://stream-47.zeno.fm/gf58b0pt5x8uv?zs=9Rb0nsM4TlCJ9aggk8nWAg",
+      "streamUrls": [
+        "http://stream-47.zeno.fm/gf58b0pt5x8uv?zs=9Rb0nsM4TlCJ9aggk8nWAg"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 528,
+      "featured": false
+    },
+    {
+      "id": "bdf7c1da-1370-4782-ba1e-015322a2aa4e",
+      "name": "RASTYLE KENYA",
+      "streamUrl": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=vvcdeoPjSamesknSTOXHvQ",
+      "streamUrls": [
+        "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=vvcdeoPjSamesknSTOXHvQ"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=vvcdeoPjSamesknSTOXHvQ",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 372,
+      "featured": false
+    },
+    {
+      "id": "f5cfce71-9a0b-4d22-953b-f794fcff7344",
+      "name": "Heaven FM Radio",
+      "streamUrl": "http://stream.zeno.fm/eequgfw72hhvv",
+      "streamUrls": [
+        "http://stream.zeno.fm/eequgfw72hhvv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FjVwXjJnAN_TFwdnscjgzoRtEirCylumB5_sOFRQUbDM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0lsdGlDbUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lscWlLb0FnTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY1NzYwMTQzNDAwMA.webp&w=750&q=75",
+      "logo": "",
+      "tags": "",
+      "language": "",
+      "state": "Nairobi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 324,
+      "featured": false
+    },
+    {
+      "id": "cd4aa31f-3e13-4b85-a1f2-ee97a7c99f89",
+      "name": "KENYA1 FM",
+      "streamUrl": "https://stream.zeno.fm/cmgkmed5u18uv",
+      "streamUrls": [
+        "https://stream.zeno.fm/cmgkmed5u18uv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://stream.zeno.fm/cmgkmed5u18uv",
+      "logo": "",
+      "tags": "comedy,music,news,talkshow",
+      "language": "kikuyu swahili",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 289,
+      "featured": false
+    },
+    {
+      "id": "a49aa01b-e82f-44aa-a727-4934628e6373",
+      "name": "R MARIA KENYA",
+      "streamUrl": "http://dreamsiteradiocp2.com:8092/",
+      "streamUrls": [
+        "http://dreamsiteradiocp2.com:8092/"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://dreamsiteradiocp2.com:8092/",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "votes": 283,
+      "featured": false
+    },
+    {
+      "id": "e4e6b342-57b4-400a-8389-39c27465a4a6",
+      "name": "RASSS KENYA",
+      "streamUrl": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=_88r_Fp8TmC34vmgpzzmzQ",
+      "streamUrls": [
+        "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=_88r_Fp8TmC34vmgpzzmzQ"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=_88r_Fp8TmC34vmgpzzmzQ",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 274,
+      "featured": false
+    },
+    {
+      "id": "3bac01df-1994-447d-a38f-cff6ab218249",
+      "name": "Radio Maria Kenya - Nairobi",
+      "streamUrl": "http://dreamsiteradiocp5.com:8069/stream",
+      "streamUrls": [
+        "http://dreamsiteradiocp5.com:8069/stream",
+        "http://dreamsiteradiocp5.com:2199/tunein/rmkenyanai-stream.pls"
+      ],
+      "streamTypes": [
+        "audio",
+        "audio"
+      ],
+      "website": "https://www.radiomaria.co.ke/",
+      "logo": "",
+      "tags": "",
+      "language": "",
+      "state": "Nairobi",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "votes": 261,
+      "featured": false
+    },
+    {
+      "id": "eeeb6128-8f59-410a-aef9-c5971d3ff9ad",
+      "name": "JEMBE FM",
+      "streamUrl": "https://cast3.asurahosting.com/proxy/jembemed/stream",
+      "streamUrls": [
+        "https://cast3.asurahosting.com/proxy/jembemed/stream"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://cast3.asurahosting.com/proxy/jembemed/stream",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 252,
+      "featured": false
+    },
+    {
+      "id": "6b002723-bdbe-4a74-b5dd-009e2443930b",
+      "name": "ghett kenya",
+      "streamUrl": "http://stream-27.zeno.fm/kvudezx1h2zuv?zs=hCl2Q4ZVSPykhlahMviRpQ",
+      "streamUrls": [
+        "http://stream-27.zeno.fm/kvudezx1h2zuv?zs=hCl2Q4ZVSPykhlahMviRpQ"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://stream-27.zeno.fm/kvudezx1h2zuv?zs=hCl2Q4ZVSPykhlahMviRpQ",
+      "logo": "https://i0.wp.com/ghettoradio.co.ke/wp-content/uploads/2024/09/ghetto-radio-favicon.png?fit=270%2C270&ssl=1",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 233,
+      "featured": false
+    },
+    {
+      "id": "0fb85fdf-34ae-40a3-a6ac-1b5fbedf6cea",
+      "name": "FM RASSTYLE KENYA",
+      "streamUrl": "http://stream.zeno.fm/gf58b0pt5x8uv",
+      "streamUrls": [
+        "http://stream.zeno.fm/gf58b0pt5x8uv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://stream.zeno.fm/gf58b0pt5x8uv",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 226,
+      "featured": false
+    },
+    {
+      "id": "6c88484c-b01e-4018-b4cb-be4fdbcabee7",
+      "name": "Easy FM 101.5",
+      "streamUrl": "https://stream.zeno.fm/wvw02zaqpxquv",
+      "streamUrls": [
+        "https://stream.zeno.fm/wvw02zaqpxquv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://zeno.fm/",
+      "logo": "",
+      "tags": "soul",
+      "language": "english",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 219,
+      "featured": false
+    },
+    {
+      "id": "80adc4bc-528e-40f5-bf05-74893db82604",
+      "name": "#Radio Quran",
+      "streamUrl": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+      "streamUrls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "votes": 205,
+      "featured": false
+    },
+    {
+      "id": "ad87fdc8-cb5a-4e06-82a7-0f34b7408a38",
+      "name": "CARRIBEAN",
+      "streamUrl": "https://streams.rautemusik.fm/caribbean-wave/mp3-192/",
+      "streamUrls": [
+        "https://streams.rautemusik.fm/caribbean-wave/mp3-192/"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://streams.rautemusik.fm/caribbean-wave/mp3-192/",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "votes": 191,
+      "featured": false
+    },
+    {
+      "id": "d01bd391-cc4b-40ae-8c84-6269c4d8e432",
+      "name": "Radio Maria Kenya - Nyeri",
+      "streamUrl": "http://57.129.49.167:8092/stream",
+      "streamUrls": [
+        "http://57.129.49.167:8092/stream",
+        "http://dreamsiteradiocp2.com:2199/tunein/rmkenya2-stream.pls"
+      ],
+      "streamTypes": [
+        "audio",
+        "audio"
+      ],
+      "website": "https://www.radiomaria.co.ke/",
+      "logo": "",
+      "tags": "",
+      "language": "",
+      "state": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "votes": 186,
+      "featured": false
+    },
+    {
+      "id": "b1eedddc-2192-4ccc-94b8-23c744f5b851",
+      "name": "NRG FM",
+      "streamUrl": "https://streamingv2.shoutcast.com/nrg-radio-ke",
+      "streamUrls": [
+        "https://streamingv2.shoutcast.com/nrg-radio-ke"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://streamingv2.shoutcast.com/nrg-radio-ke",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 182,
+      "featured": false
+    },
+    {
+      "id": "21afccb2-db57-4562-9e3b-dad19db6cb00",
+      "name": "Radio Maria Kenya Kisumu",
+      "streamUrl": "http://dreamsiteradiocp5.com:8129/stream",
+      "streamUrls": [
+        "http://dreamsiteradiocp5.com:8129/stream",
+        "http://dreamsiteradiocp5.com:2199/tunein/rmkenyakisumu-stream.pls"
+      ],
+      "streamTypes": [
+        "audio",
+        "audio"
+      ],
+      "website": "https://www.radiomaria.co.ke/",
+      "logo": "",
+      "tags": "",
+      "language": "",
+      "state": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "votes": 164,
+      "featured": false
+    },
+    {
+      "id": "0ba2a129-0e71-4612-8e0d-de07c8d55376",
+      "name": "KINGSTONE",
+      "streamUrl": "http://198.57.187.102:8080/kingston12",
+      "streamUrls": [
+        "http://198.57.187.102:8080/kingston12"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 140,
+      "votes": 154,
+      "featured": false
+    },
+    {
+      "id": "2759f516-b1bd-42eb-9a31-bc1a3070f54a",
+      "name": "Exclusive radio George Straight",
+      "streamUrl": "https://streaming.exclusive.radio/er/georgestrait/icecast.audio",
+      "streamUrls": [
+        "https://streaming.exclusive.radio/er/georgestrait/icecast.audio"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://exclusive.com/",
+      "logo": "",
+      "tags": "",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 148,
+      "featured": false
+    },
+    {
+      "id": "b11c47b6-89d5-49f3-bd55-52d237748f53",
+      "name": "RAS STYLE KENYA",
+      "streamUrl": "http://stream.zeno.fm/gf58b0pt5x8uv",
+      "streamUrls": [
+        "http://stream.zeno.fm/gf58b0pt5x8uv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://stream.zeno.fm/gf58b0pt5x8uv",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 144,
+      "featured": false
+    },
+    {
+      "id": "04faa7c7-7578-49c2-be27-634a0a18724c",
+      "name": "FEEL JAH",
+      "streamUrl": "http://solid9.streamupsolutions.com:8018/stream",
+      "streamUrls": [
+        "http://solid9.streamupsolutions.com:8018/stream"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://solid9.streamupsolutions.com:8018/stream",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 138,
+      "featured": false
+    },
+    {
+      "id": "bc861a93-3fdf-48f4-8e79-836ad54c0a61",
+      "name": "GHETT",
+      "streamUrl": "http://stream.zeno.fm/kvudezx1h2zuv",
+      "streamUrls": [
+        "http://stream.zeno.fm/kvudezx1h2zuv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://stream.zeno.fm/kvudezx1h2zuv",
+      "logo": "https://i0.wp.com/ghettoradio.co.ke/wp-content/uploads/2024/09/ghetto-radio-favicon.png?fit=270%2C270&ssl=1",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 130,
+      "featured": false
+    },
+    {
+      "id": "79a59c52-ac8d-48fa-9d76-25d7c9050d37",
+      "name": "George Jones",
+      "streamUrl": "https://streaming.exclusive.radio/er/georgejones/icecast.audio",
+      "streamUrls": [
+        "https://streaming.exclusive.radio/er/georgejones/icecast.audio"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://play.exclusive.radio/",
+      "logo": "",
+      "tags": "",
+      "language": "",
+      "state": "Nairobi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 114,
+      "featured": false
+    },
+    {
+      "id": "3ec35af5-d7dd-41ff-94af-bd5cacfc44c3",
+      "name": "RASTYLEstream.zeno.fm",
+      "streamUrl": "http://stream.zeno.fm/gf58b0pt5x8uv",
+      "streamUrls": [
+        "http://stream.zeno.fm/gf58b0pt5x8uv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 100,
+      "featured": false
+    },
+    {
+      "id": "b6b3bd4a-f790-47aa-8c7f-7f46c6f3101d",
+      "name": "RE",
+      "streamUrl": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
+      "streamUrls": [
+        "http://allzic43.ice.infomaniak.ch/allzic43.mp3"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 98,
+      "featured": false
+    },
+    {
+      "id": "87583ab5-0d53-43ac-a414-46bb39c89217",
+      "name": "Radio47",
+      "streamUrl": "https://streaming.shoutcast.com/radio-47?ver=690109",
+      "streamUrls": [
+        "https://streaming.shoutcast.com/radio-47?ver=690109"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://www.radio47.fm/#!",
+      "logo": "https://yt3.googleusercontent.com/a3-veb-GPFI4o15P_DyjAXssVg_TTKGAjdgsWL_Iuvev83rzTB3xUfmoMxrMkbpNfO9IuFmT=s900-c-k-c0x00ffffff-no-rj",
+      "tags": "",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 98,
+      "featured": false
+    },
+    {
+      "id": "0831ce28-0932-4fc0-b57d-10b4c878fb05",
+      "name": "RAS STYLE",
+      "streamUrl": "http://stream.zeno.fm/gf58b0pt5x8uv",
+      "streamUrls": [
+        "http://stream.zeno.fm/gf58b0pt5x8uv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 63,
+      "featured": false
+    },
+    {
+      "id": "3ec022f6-b9a9-40d6-b3b5-2ff2cddf0905",
+      "name": "ALLIZINIC FM",
+      "streamUrl": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
+      "streamUrls": [
+        "http://allzic43.ice.infomaniak.ch/allzic43.mp3"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
+      "logo": "",
+      "tags": "classical",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 59,
+      "featured": false
+    },
+    {
+      "id": "ab349279-ae07-49ce-8c18-2dfe3dec2051",
+      "name": "AT254 Online Radio",
+      "streamUrl": "https://s127.radiolize.com/radio/8100/radio.mp3",
+      "streamUrls": [
+        "https://s127.radiolize.com/radio/8100/radio.mp3"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://s127.radiolize.com/public/appsumo__cj6khn_riclf3",
+      "logo": "",
+      "tags": "",
+      "language": "",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 192,
+      "votes": 43,
+      "featured": false
+    },
+    {
+      "id": "cc843b9a-768c-40de-8acd-3139c7750993",
+      "name": "REPLAY NEWS - Kiswahili",
+      "streamUrl": "https://replaynewssw.ice.infomaniak.ch/replaynewssw-128.mp3",
+      "streamUrls": [
+        "https://replaynewssw.ice.infomaniak.ch/replaynewssw-128.mp3"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://www.replaynews.net/",
+      "logo": "",
+      "tags": "news",
+      "language": "swahili",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 31,
+      "featured": false
+    },
+    {
+      "id": "a7fdf011-205f-4723-8eff-e7aff65d433b",
+      "name": "Abdulbasit Abdulsamad",
+      "streamUrl": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+      "streamUrls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://mp3islam.com/",
+      "logo": "",
+      "tags": "",
+      "language": "arabic",
+      "state": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "votes": 29,
+      "featured": false
+    },
+    {
+      "id": "de54f373-bb93-44b0-b50b-16488ab8ac50",
+      "name": "Radio Generation Kenya 88.8",
+      "streamUrl": "https://stream-158.zeno.fm/f3wvbbqmdg8uv",
+      "streamUrls": [
+        "https://stream-158.zeno.fm/f3wvbbqmdg8uv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://radiogeneration.co.ke/",
+      "logo": "",
+      "tags": "",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 21,
+      "featured": false
+    },
+    {
+      "id": "c45cbe80-bb9e-48b9-8cd2-52d4a4b9f7bc",
+      "name": "Radio Safari Kenya",
+      "streamUrl": "https://stream.zeno.fm/t65cszbgunhvv",
+      "streamUrls": [
+        "https://stream.zeno.fm/t65cszbgunhvv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "",
+      "logo": "",
+      "tags": "christian,hits,news,pop",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 19,
+      "featured": false
+    },
+    {
+      "id": "9c21bc88-69c8-4d42-b265-9ed5181c09c8",
+      "name": "Kustommediaradio",
+      "streamUrl": "https://stream.zeno.fm/3zgc6zpfvorvv",
+      "streamUrls": [
+        "https://stream.zeno.fm/3zgc6zpfvorvv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://stream.zeno.fm/3zgc6zpfvorvv",
+      "logo": "",
+      "tags": "pepea show la kijanja 1-4pm",
+      "language": "swahili",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 16,
+      "featured": false
+    },
+    {
+      "id": "fbddafaf-8e7c-4cbe-a7fa-ffdcb61b9c22",
+      "name": "CRI Nairobi FM91.9",
+      "streamUrl": "https://sk.cri.cn/kenya.m3u8",
+      "streamUrls": [
+        "https://sk.cri.cn/kenya.m3u8"
+      ],
+      "streamTypes": [
+        "hls"
+      ],
+      "website": "http://swahili.cri.cn/",
+      "logo": "",
+      "tags": "international",
+      "language": "swahili",
+      "state": "Nairobi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "votes": 9,
+      "featured": false
+    },
+    {
+      "id": "9b224b19-a62f-41ec-a464-b8928438d3b5",
+      "name": "Flamingo Radio",
+      "streamUrl": "https://stream.zeno.fm/215bpympks8uv",
+      "streamUrls": [
+        "https://stream.zeno.fm/215bpympks8uv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "",
+      "logo": "",
+      "tags": "afro-rhumba,congolese rhumba,dancehall,gospel,hiphop,hits,pop,reggae",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 8,
+      "featured": false
+    },
+    {
+      "id": "7c9a4de1-17b5-497f-9c3e-22c2dd741a11",
+      "name": "CRI Kiswahili",
+      "streamUrl": "https://sk.cri.cn/kenya.m3u8",
+      "streamUrls": [
+        "https://sk.cri.cn/kenya.m3u8"
+      ],
+      "streamTypes": [
+        "hls"
+      ],
+      "website": "http://swahili.cri.cn/",
+      "logo": "",
+      "tags": "international",
+      "language": "kiswahili",
+      "state": "Nairobi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "votes": 6,
+      "featured": false
+    },
+    {
+      "id": "c022e2e6-0383-4a9e-bc30-9e002a7a6a91",
+      "name": "Aldai Radio",
+      "streamUrl": "https://stream.zeno.fm/sojbskv8s10vv",
+      "streamUrls": [
+        "https://stream.zeno.fm/sojbskv8s10vv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "",
+      "logo": "",
+      "tags": "afrobeat,news,pop,talk",
+      "language": "",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 4,
+      "featured": false
+    },
+    {
+      "id": "4715fe4b-e56c-4a4e-bef2-9212f8651df0",
+      "name": "Emmachev Radio",
+      "streamUrl": "https://radio.emmachev.com/listen/emmachev-radio/radio.mp3",
+      "streamUrls": [
+        "https://radio.emmachev.com/listen/emmachev-radio/radio.mp3"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://emmachev.com/emmachev-radio/",
+      "logo": "https://emmachev.com/wp-content/uploads/2022/07/Emmachev-Radio-Logo-1.jpg",
+      "tags": "indie,urban",
+      "language": "english",
+      "state": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 3,
+      "featured": false
+    },
+    {
+      "id": "2c23c002-c5e1-4b20-bb23-1bb2b1e2ba91",
+      "name": "Universal Health Radio (Kiswahili)",
+      "streamUrl": "https://radio.universalhealthradio.org/uhr-sw.mp3",
+      "streamUrls": [
+        "https://radio.universalhealthradio.org/uhr-sw.mp3"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://universalhealthradio.org/",
+      "logo": "",
+      "tags": "cdc,education,fda,health,news,public health,swahili,who",
+      "language": "swahili",
+      "state": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "votes": 1,
       "featured": false
     }
   ]
