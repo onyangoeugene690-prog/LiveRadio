@@ -9,7 +9,10 @@
         "https://atunwadigital.streamguys1.com/radiocitizen/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/radiocitizen"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.royalmedia.co.ke/brands/radio-citizen/",
       "logo": "",
       "tags": "news, talk, music, swahili",
@@ -28,7 +31,10 @@
         "https://atunwadigital.streamguys1.com/radiojambo/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/radiojambo"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://radiojambo.co.ke/",
       "logo": "",
       "tags": "talk, sports, music, swahili",
@@ -47,7 +53,10 @@
         "https://atunwadigital.streamguys1.com/classic105/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/classic105"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://classic105.com/",
       "logo": "",
       "tags": "music, classic, talk, urban",
@@ -66,7 +75,10 @@
         "https://atunwadigital.streamguys1.com/kissfm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/kissfm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://kiss100.co.ke/",
       "logo": "",
       "tags": "music, hits, urban, entertainment",
@@ -81,8 +93,12 @@
       "id": "featured-nrg-radio",
       "name": "NRG Radio",
       "streamUrl": "https://uksouth.streaming.broadcast.radio/nrg",
-      "streamUrls": ["https://uksouth.streaming.broadcast.radio/nrg"],
-      "streamTypes": ["audio"],
+      "streamUrls": [
+        "https://uksouth.streaming.broadcast.radio/nrg"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
       "website": "https://nrg.radio/",
       "logo": "",
       "tags": "music, urban, dance, youth",
@@ -101,7 +117,10 @@
         "https://atunwadigital.streamguys1.com/capitalfm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/capitalfm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.capitalfm.co.ke/",
       "logo": "",
       "tags": "news, music, talk, urban",
@@ -120,7 +139,10 @@
         "https://atunwadigital.streamguys1.com/ramogifm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/ramogifm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.royalmedia.co.ke/brands/ramogi-fm/",
       "logo": "",
       "tags": "music, news, talk, vernacular",
@@ -139,7 +161,10 @@
         "https://atunwadigital.streamguys1.com/radiomaisha/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/radiomaisha"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.standardmedia.co.ke/radiomaisha/",
       "logo": "",
       "tags": "music, news, talk, swahili",
@@ -158,7 +183,10 @@
         "https://atunwadigital.streamguys1.com/milelefm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/milelefm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.mediamaxnetwork.co.ke/milele-fm/",
       "logo": "",
       "tags": "music, entertainment, talk, swahili",
@@ -177,7 +205,10 @@
         "https://atunwadigital.streamguys1.com/kamemefm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/kamemefm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.mediamaxnetwork.co.ke/kameme-fm/",
       "logo": "",
       "tags": "music, news, vernacular",
@@ -196,7 +227,10 @@
         "https://atunwadigital.streamguys1.com/inoorofm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/inoorofm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.royalmedia.co.ke/brands/inooro-fm/",
       "logo": "",
       "tags": "music, news, vernacular",
@@ -215,7 +249,10 @@
         "https://atunwadigital.streamguys1.com/spicefm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/spicefm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.standardmedia.co.ke/spicefm/",
       "logo": "",
       "tags": "talk, music, soul, discussion",
@@ -230,8 +267,12 @@
       "id": "curated-radio-47",
       "name": "Radio 47",
       "streamUrl": "https://streaming.shoutcast.com/radio-47?ver=690109",
-      "streamUrls": ["https://streaming.shoutcast.com/radio-47?ver=690109"],
-      "streamTypes": ["audio"],
+      "streamUrls": [
+        "https://streaming.shoutcast.com/radio-47?ver=690109"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
       "website": "https://radio47.co.ke/",
       "logo": "",
       "tags": "news, entertainment, talk, swahili",
@@ -250,7 +291,10 @@
         "https://atunwadigital.streamguys1.com/hot96/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/hot96"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://hot96.co.ke/",
       "logo": "",
       "tags": "music, urban, hits",
@@ -269,7 +313,10 @@
         "https://atunwadigital.streamguys1.com/homeboyzradio/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/homeboyzradio"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://homeboyzradio.co.ke/",
       "logo": "",
       "tags": "hiphop, urban, music",
@@ -284,8 +331,12 @@
       "id": "curated-ghetto-radio",
       "name": "Ghetto Radio",
       "streamUrl": "https://stream.zeno.fm/kvudezx1h2zuv",
-      "streamUrls": ["https://stream.zeno.fm/kvudezx1h2zuv"],
-      "streamTypes": ["audio"],
+      "streamUrls": [
+        "https://stream.zeno.fm/kvudezx1h2zuv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
       "website": "https://ghettoradio.co.ke/",
       "logo": "",
       "tags": "reggae, sheng, urban, community",
@@ -300,8 +351,12 @@
       "id": "curated-kbc-english",
       "name": "KBC English Service",
       "streamUrl": "https://stream.zeno.fm/ud2u96xst5quv",
-      "streamUrls": ["https://stream.zeno.fm/ud2u96xst5quv"],
-      "streamTypes": ["audio"],
+      "streamUrls": [
+        "https://stream.zeno.fm/ud2u96xst5quv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
       "website": "https://www.kbc.co.ke/",
       "logo": "",
       "tags": "news, talk, current affairs",
@@ -313,6 +368,26 @@
       "featured": false
     },
     {
+      "id": "curated-nation-fm",
+      "name": "Nation FM",
+      "streamUrl": "http://stream.radiojar.com/3by7s8eg65quv",
+      "streamUrls": [
+        "http://stream.radiojar.com/3by7s8eg65quv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://nation.africa/",
+      "logo": "",
+      "tags": "news, talk, current affairs, english",
+      "language": "English",
+      "state": "Nairobi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 265,
+      "featured": false
+    },
+    {
       "id": "curated-east-fm",
       "name": "East FM",
       "streamUrl": "https://atunwadigital.streamguys1.com/eastfm/playlist.m3u8",
@@ -320,7 +395,10 @@
         "https://atunwadigital.streamguys1.com/eastfm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/eastfm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://eastfm.com/",
       "logo": "",
       "tags": "music, entertainment, asian",
@@ -339,7 +417,10 @@
         "https://atunwadigital.streamguys1.com/baharifm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/baharifm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.royalmedia.co.ke/",
       "logo": "",
       "tags": "music, news, coastal",
@@ -358,7 +439,10 @@
         "https://atunwadigital.streamguys1.com/egesafm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/egesafm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.royalmedia.co.ke/",
       "logo": "",
       "tags": "music, news, vernacular",
@@ -377,7 +461,10 @@
         "https://atunwadigital.streamguys1.com/mulembefm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/mulembefm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.royalmedia.co.ke/",
       "logo": "",
       "tags": "music, news, vernacular",
@@ -396,7 +483,10 @@
         "https://atunwadigital.streamguys1.com/musyifm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/musyifm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.royalmedia.co.ke/",
       "logo": "",
       "tags": "music, news, vernacular",
@@ -415,7 +505,10 @@
         "https://atunwadigital.streamguys1.com/chamgeifm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/chamgeifm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.royalmedia.co.ke/",
       "logo": "",
       "tags": "music, news, vernacular",
@@ -434,7 +527,10 @@
         "https://atunwadigital.streamguys1.com/wimwarofm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/wimwarofm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.royalmedia.co.ke/",
       "logo": "",
       "tags": "music, news, vernacular",
@@ -453,7 +549,10 @@
         "https://atunwadigital.streamguys1.com/vuukafm/playlist.m3u8",
         "https://atunwadigital.streamguys1.com/vuukafm"
       ],
-      "streamTypes": ["hls", "audio"],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
       "website": "https://www.royalmedia.co.ke/",
       "logo": "",
       "tags": "music, news, vernacular",
@@ -465,11 +564,101 @@
       "featured": false
     },
     {
+      "id": "curated-mayian-fm",
+      "name": "Mayian FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/mayianfm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/mayianfm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/mayianfm"
+      ],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
+      "website": "https://www.mediamaxnetwork.co.ke/",
+      "logo": "",
+      "tags": "music, news, vernacular",
+      "language": "Maa",
+      "state": "Kajiado",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 180,
+      "featured": false
+    },
+    {
+      "id": "curated-meru-fm",
+      "name": "Meru FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/merufm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/merufm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/merufm"
+      ],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
+      "website": "https://www.mediamaxnetwork.co.ke/",
+      "logo": "",
+      "tags": "music, news, vernacular",
+      "language": "Meru",
+      "state": "Meru",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 170,
+      "featured": false
+    },
+    {
+      "id": "curated-emo-fm",
+      "name": "Emoo FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/emoofm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/emoofm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/emoofm"
+      ],
+      "streamTypes": [
+        "hls",
+        "audio"
+      ],
+      "website": "https://www.mediamaxnetwork.co.ke/",
+      "logo": "",
+      "tags": "music, news, vernacular",
+      "language": "Kalenjin",
+      "state": "Eldoret",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 160,
+      "featured": false
+    },
+    {
+      "id": "curated-radio-maria",
+      "name": "Radio Maria Kenya",
+      "streamUrl": "http://dreamsiteradiocp5.com:8069/stream",
+      "streamUrls": [
+        "http://dreamsiteradiocp5.com:8069/stream"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://www.radiomaria.co.ke/",
+      "logo": "",
+      "tags": "gospel, christian, worship, catholic",
+      "language": "Swahili",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 155,
+      "featured": false
+    },
+    {
       "id": "curated-jesus-is-lord",
       "name": "Jesus Is Lord Radio",
       "streamUrl": "https://s3.radio.co/s97f38db97/listen",
-      "streamUrls": ["https://s3.radio.co/s97f38db97/listen"],
-      "streamTypes": ["audio"],
+      "streamUrls": [
+        "https://s3.radio.co/s97f38db97/listen"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
       "website": "https://www.jesusislordradio.info/",
       "logo": "",
       "tags": "gospel, christian, worship",
@@ -484,8 +673,12 @@
       "id": "curated-radio-waumini",
       "name": "Radio Waumini 88.3FM",
       "streamUrl": "https://stream.zeno.fm/gvk894g072quv",
-      "streamUrls": ["https://stream.zeno.fm/gvk894g072quv"],
-      "streamTypes": ["audio"],
+      "streamUrls": [
+        "https://stream.zeno.fm/gvk894g072quv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
       "website": "https://radiowaumini.org/",
       "logo": "",
       "tags": "gospel, christian, catholic, news",
@@ -494,6 +687,166 @@
       "codec": "MP3",
       "bitrate": 128,
       "votes": 145,
+      "featured": false
+    },
+    {
+      "id": "curated-radio-kaya",
+      "name": "Radio Kaya",
+      "streamUrl": "http://usa9-vn.mixstream.net:8084/;",
+      "streamUrls": [
+        "http://usa9-vn.mixstream.net:8084/;"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://radiokaya.co.ke/",
+      "logo": "",
+      "tags": "coastal, music, news, mijikenda",
+      "language": "Swahili",
+      "state": "Kwale",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 140,
+      "featured": false
+    },
+    {
+      "id": "curated-taach-fm",
+      "name": "Taach FM",
+      "streamUrl": "https://pegasus.nucast.co.uk:8064/stream",
+      "streamUrls": [
+        "https://pegasus.nucast.co.uk:8064/stream"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://taachfm.co.ke/",
+      "logo": "",
+      "tags": "music, news, vernacular, kalenjin",
+      "language": "Kalenjin",
+      "state": "Kericho",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 135,
+      "featured": false
+    },
+    {
+      "id": "curated-campus-radio",
+      "name": "Campus Radio Kenya",
+      "streamUrl": "https://stream.zenolive.com/mayn36v1v8quv.aac",
+      "streamUrls": [
+        "https://stream.zenolive.com/mayn36v1v8quv.aac"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://campusradio.co.ke/",
+      "logo": "",
+      "tags": "youth, campus, music, urban",
+      "language": "English",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 130,
+      "featured": false
+    },
+    {
+      "id": "curated-flamingo-radio",
+      "name": "Flamingo Radio Nakuru",
+      "streamUrl": "https://stream.zeno.fm/215bpympks8uv",
+      "streamUrls": [
+        "https://stream.zeno.fm/215bpympks8uv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://flamingoradio.co.ke/",
+      "logo": "",
+      "tags": "community, music, news, rift valley",
+      "language": "Swahili",
+      "state": "Nakuru",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 125,
+      "featured": false
+    },
+    {
+      "id": "curated-radio-quran",
+      "name": "Radio Quran Kenya",
+      "streamUrl": "https://n0a.radiojar.com/0tpy1h0kxtzuv",
+      "streamUrls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://radioquran.co.ke/",
+      "logo": "",
+      "tags": "islamic, quran, religious, recitation",
+      "language": "Arabic",
+      "state": "Nairobi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 120,
+      "featured": false
+    },
+    {
+      "id": "curated-cri-nairobi",
+      "name": "CRI Nairobi 91.9 FM",
+      "streamUrl": "https://sk.cri.cn/kenya.m3u8",
+      "streamUrls": [
+        "https://sk.cri.cn/kenya.m3u8"
+      ],
+      "streamTypes": [
+        "hls"
+      ],
+      "website": "https://sk.cri.cn/",
+      "logo": "",
+      "tags": "news, current affairs, global, culture",
+      "language": "English",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 115,
+      "featured": false
+    },
+    {
+      "id": "curated-at254-radio",
+      "name": "AT254 Radio",
+      "streamUrl": "https://s127.radiolize.com/radio/8100/radio.mp3",
+      "streamUrls": [
+        "https://s127.radiolize.com/radio/8100/radio.mp3"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://at254.co.ke/",
+      "logo": "",
+      "tags": "urban, mixes, hits, youth",
+      "language": "Sheng",
+      "state": "Nairobi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 110,
+      "featured": false
+    },
+    {
+      "id": "curated-juja-fm",
+      "name": "Juja FM",
+      "streamUrl": "http://node-10.zeno.fm/5w8y7wcf9x8uv",
+      "streamUrls": [
+        "http://node-10.zeno.fm/5w8y7wcf9x8uv"
+      ],
+      "streamTypes": [
+        "audio"
+      ],
+      "website": "https://jujafm.co.ke/",
+      "logo": "",
+      "tags": "campus, youth, music, local",
+      "language": "English",
+      "state": "Kiambu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 105,
       "featured": false
     }
   ]

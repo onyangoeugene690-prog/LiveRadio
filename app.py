@@ -44,10 +44,10 @@ FEATURED_STATIONS = [
     {
         "id": "featured-radio-citizen",
         "name": "Radio Citizen",
-        "streamUrl": "https://atunwadigital.streamguys1.com/radiocitizen/playlist.m3u8",
+        "streamUrl": "https://atunwadigital.streamguys1.com/radiocitizen",
         "streamUrls": [
-            "https://atunwadigital.streamguys1.com/radiocitizen/playlist.m3u8",
             "https://atunwadigital.streamguys1.com/radiocitizen",
+            "https://atunwadigital.streamguys1.com/radiocitizen/playlist.m3u8",
         ],
         "website": "https://www.royalmedia.co.ke/brands/radio-citizen/",
         "logo": "",
@@ -62,10 +62,10 @@ FEATURED_STATIONS = [
     {
         "id": "featured-radio-jambo",
         "name": "Radio Jambo",
-        "streamUrl": "https://atunwadigital.streamguys1.com/radiojambo/playlist.m3u8",
+        "streamUrl": "https://atunwadigital.streamguys1.com/radiojambo",
         "streamUrls": [
-            "https://atunwadigital.streamguys1.com/radiojambo/playlist.m3u8",
             "https://atunwadigital.streamguys1.com/radiojambo",
+            "https://atunwadigital.streamguys1.com/radiojambo/playlist.m3u8",
         ],
         "website": "https://radiojambo.co.ke/",
         "logo": "",
@@ -80,10 +80,10 @@ FEATURED_STATIONS = [
     {
         "id": "featured-classic-105",
         "name": "Classic 105",
-        "streamUrl": "https://atunwadigital.streamguys1.com/classic105/playlist.m3u8",
+        "streamUrl": "https://atunwadigital.streamguys1.com/classic105",
         "streamUrls": [
-            "https://atunwadigital.streamguys1.com/classic105/playlist.m3u8",
             "https://atunwadigital.streamguys1.com/classic105",
+            "https://atunwadigital.streamguys1.com/classic105/playlist.m3u8",
         ],
         "website": "https://classic105.com/",
         "logo": "",
@@ -98,10 +98,10 @@ FEATURED_STATIONS = [
     {
         "id": "featured-kiss-100",
         "name": "Kiss 100",
-        "streamUrl": "https://atunwadigital.streamguys1.com/kissfm/playlist.m3u8",
+        "streamUrl": "https://atunwadigital.streamguys1.com/kissfm",
         "streamUrls": [
-            "https://atunwadigital.streamguys1.com/kissfm/playlist.m3u8",
             "https://atunwadigital.streamguys1.com/kissfm",
+            "https://atunwadigital.streamguys1.com/kissfm/playlist.m3u8",
         ],
         "website": "https://kiss100.co.ke/",
         "logo": "",
@@ -131,10 +131,10 @@ FEATURED_STATIONS = [
     {
         "id": "featured-capital-fm",
         "name": "98.4 Capital FM",
-        "streamUrl": "https://atunwadigital.streamguys1.com/capitalfm/playlist.m3u8",
+        "streamUrl": "https://atunwadigital.streamguys1.com/capitalfm",
         "streamUrls": [
-            "https://atunwadigital.streamguys1.com/capitalfm/playlist.m3u8",
             "https://atunwadigital.streamguys1.com/capitalfm",
+            "https://atunwadigital.streamguys1.com/capitalfm/playlist.m3u8",
         ],
         "website": "https://www.capitalfm.co.ke/",
         "logo": "",
@@ -627,6 +627,96 @@ CURATED_FALLBACK_STATIONS = [
         "votes": 135,
         "featured": False,
     },
+    {
+        "id": "curated-campus-radio",
+        "name": "Campus Radio Kenya",
+        "streamUrl": "https://stream.zenolive.com/mayn36v1v8quv.aac",
+        "streamUrls": ["https://stream.zenolive.com/mayn36v1v8quv.aac"],
+        "website": "https://campusradio.co.ke/",
+        "logo": "",
+        "tags": "youth, campus, music, urban",
+        "language": "English",
+        "state": "Nairobi",
+        "codec": "AAC",
+        "bitrate": 128,
+        "votes": 130,
+        "featured": False,
+    },
+    {
+        "id": "curated-flamingo-radio",
+        "name": "Flamingo Radio Nakuru",
+        "streamUrl": "https://stream.zeno.fm/215bpympks8uv",
+        "streamUrls": ["https://stream.zeno.fm/215bpympks8uv"],
+        "website": "https://flamingoradio.co.ke/",
+        "logo": "",
+        "tags": "community, music, news, rift valley",
+        "language": "Swahili",
+        "state": "Nakuru",
+        "codec": "MP3",
+        "bitrate": 128,
+        "votes": 125,
+        "featured": False,
+    },
+    {
+        "id": "curated-radio-quran",
+        "name": "Radio Quran Kenya",
+        "streamUrl": "https://n0a.radiojar.com/0tpy1h0kxtzuv",
+        "streamUrls": ["https://n0a.radiojar.com/0tpy1h0kxtzuv"],
+        "website": "https://radioquran.co.ke/",
+        "logo": "",
+        "tags": "islamic, quran, religious, recitation",
+        "language": "Arabic",
+        "state": "Nairobi",
+        "codec": "MP3",
+        "bitrate": 128,
+        "votes": 120,
+        "featured": False,
+    },
+    {
+        "id": "curated-cri-nairobi",
+        "name": "CRI Nairobi 91.9 FM",
+        "streamUrl": "https://sk.cri.cn/kenya.m3u8",
+        "streamUrls": ["https://sk.cri.cn/kenya.m3u8"],
+        "website": "https://sk.cri.cn/",
+        "logo": "",
+        "tags": "news, current affairs, global, culture",
+        "language": "English",
+        "state": "Nairobi",
+        "codec": "AAC",
+        "bitrate": 128,
+        "votes": 115,
+        "featured": False,
+    },
+    {
+        "id": "curated-at254-radio",
+        "name": "AT254 Radio",
+        "streamUrl": "https://s127.radiolize.com/radio/8100/radio.mp3",
+        "streamUrls": ["https://s127.radiolize.com/radio/8100/radio.mp3"],
+        "website": "https://at254.co.ke/",
+        "logo": "",
+        "tags": "urban, mixes, hits, youth",
+        "language": "Sheng",
+        "state": "Nairobi",
+        "codec": "MP3",
+        "bitrate": 128,
+        "votes": 110,
+        "featured": False,
+    },
+    {
+        "id": "curated-juja-fm",
+        "name": "Juja FM",
+        "streamUrl": "http://node-10.zeno.fm/5w8y7wcf9x8uv",
+        "streamUrls": ["http://node-10.zeno.fm/5w8y7wcf9x8uv"],
+        "website": "https://jujafm.co.ke/",
+        "logo": "",
+        "tags": "campus, youth, music, local",
+        "language": "English",
+        "state": "Kiambu",
+        "codec": "MP3",
+        "bitrate": 128,
+        "votes": 105,
+        "featured": False,
+    },
 ]
 
 FEATURED_ALIASES = {
@@ -775,16 +865,20 @@ STREAM_URL_OVERRIDES = {
 INVALID_STREAM_PATTERNS = [
     "musicradio.com",
     "181.fm",
-    "shoutcast.com/nrg-radio-ke",
-    "allzic43.ice.infomaniak.ch",
-    "replaynewssw.ice.infomaniak.ch",
-    "radio.emmachev.com",
+    "shoutcast.com",
+    "infomaniak.ch",
+    "emmachev.com",
+    "capitalfm-atunwadigital",
+    "radiojambo-atunwadigital",
+    "radiocitizen-atunwadigital",
+    "ramogifm-atunwadigital",
+    "classic105-atunwadigital",
 ]
 
 app = Flask(__name__, static_folder=None)
 _cache_lock = threading.Lock()
 _stations_cache: tuple[float, list[dict[str, object]]] | None = None
-_proxy_secret = os.environ.get("EUGENE_STREAM_PROXY_SECRET", "").encode() or secrets.token_bytes(32)
+_proxy_secret = os.environ.get("EUGENE_STREAM_PROXY_SECRET", "EugeneRadioSecretKey2025StaticSignature").encode()
 
 
 def is_http_url(value: object) -> bool:
@@ -932,18 +1026,22 @@ def load_stations() -> list[dict[str, object]]:
             stations.append(featured_station.copy())
         else:
             existing_station = stations[existing_index]
+            clean_existing_urls = [
+                u for u in existing_station.get("streamUrls", [])
+                if is_http_url(u) and not any(p in str(u).lower() for p in INVALID_STREAM_PATTERNS)
+            ]
             stream_urls = list(
                 dict.fromkeys(
                     [
                         *featured_station["streamUrls"],
-                        *existing_station["streamUrls"],
+                        *clean_existing_urls,
                     ]
                 )
             )
             stations[existing_index] = {
                 **existing_station,
                 **featured_station,
-                "id": existing_station["id"],
+                "id": featured_station["id"],
                 "streamUrl": stream_urls[0],
                 "streamUrls": stream_urls,
                 "votes": max(existing_station.get("votes", 0), featured_station.get("votes", 0)),
@@ -954,15 +1052,28 @@ def load_stations() -> list[dict[str, object]]:
     return stations
 
 
+def _async_refresh_cache():
+    global _stations_cache
+    try:
+        stations = load_stations()
+        with _cache_lock:
+            _stations_cache = (time.monotonic(), stations)
+    except Exception as error:
+        app.logger.warning("Background station refresh failed: %s", error)
+
+
 def get_cached_stations() -> list[dict[str, object]]:
     global _stations_cache
 
     with _cache_lock:
         if _stations_cache and time.monotonic() - _stations_cache[0] < CACHE_SECONDS:
             return _stations_cache[1]
-        stations = load_stations()
-        _stations_cache = (time.monotonic(), stations)
-        return stations
+
+        cached = _stations_cache[1] if _stations_cache else CURATED_FALLBACK_STATIONS.copy()
+        _stations_cache = (time.monotonic(), cached)
+
+    threading.Thread(target=_async_refresh_cache, daemon=True).start()
+    return cached
 
 
 def ordered_stream_urls(station: dict[str, object]) -> list[str]:
@@ -970,11 +1081,11 @@ def ordered_stream_urls(station: dict[str, object]) -> list[str]:
     if not isinstance(raw_stream_urls, list) or not raw_stream_urls:
         raw_stream_urls = [station["streamUrl"]]
 
-    # Put .m3u8 HLS playlists FIRST for reliable HLS playback in browsers (decoded via Hls.js),
-    # followed by direct audio streams.
+    # Put direct audio streams first for instant native HTML5 audio playback in browsers,
+    # followed by HLS playlists as secondary.
     return sorted(
         (str(stream_url) for stream_url in raw_stream_urls),
-        key=lambda stream_url: not urlparse(stream_url).path.lower().endswith(".m3u8"),
+        key=lambda stream_url: urlparse(stream_url).path.lower().endswith(".m3u8"),
     )
 
 
