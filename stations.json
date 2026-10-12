@@ -1,0 +1,500 @@
+{
+  "source": "Kenyan Airwaves Directory",
+  "stations": [
+    {
+      "id": "featured-radio-citizen",
+      "name": "Radio Citizen",
+      "streamUrl": "https://atunwadigital.streamguys1.com/radiocitizen/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/radiocitizen/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/radiocitizen"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.royalmedia.co.ke/brands/radio-citizen/",
+      "logo": "",
+      "tags": "news, talk, music, swahili",
+      "language": "Swahili",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 500,
+      "featured": true
+    },
+    {
+      "id": "featured-radio-jambo",
+      "name": "Radio Jambo",
+      "streamUrl": "https://atunwadigital.streamguys1.com/radiojambo/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/radiojambo/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/radiojambo"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://radiojambo.co.ke/",
+      "logo": "",
+      "tags": "talk, sports, music, swahili",
+      "language": "Swahili",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 480,
+      "featured": true
+    },
+    {
+      "id": "featured-classic-105",
+      "name": "Classic 105",
+      "streamUrl": "https://atunwadigital.streamguys1.com/classic105/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/classic105/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/classic105"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://classic105.com/",
+      "logo": "",
+      "tags": "music, classic, talk, urban",
+      "language": "English",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 450,
+      "featured": true
+    },
+    {
+      "id": "featured-kiss-100",
+      "name": "Kiss 100",
+      "streamUrl": "https://atunwadigital.streamguys1.com/kissfm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/kissfm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/kissfm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://kiss100.co.ke/",
+      "logo": "",
+      "tags": "music, hits, urban, entertainment",
+      "language": "English",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 420,
+      "featured": true
+    },
+    {
+      "id": "featured-nrg-radio",
+      "name": "NRG Radio",
+      "streamUrl": "https://uksouth.streaming.broadcast.radio/nrg",
+      "streamUrls": ["https://uksouth.streaming.broadcast.radio/nrg"],
+      "streamTypes": ["audio"],
+      "website": "https://nrg.radio/",
+      "logo": "",
+      "tags": "music, urban, dance, youth",
+      "language": "English",
+      "state": "Nairobi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 400,
+      "featured": true
+    },
+    {
+      "id": "featured-capital-fm",
+      "name": "98.4 Capital FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/capitalfm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/capitalfm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/capitalfm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.capitalfm.co.ke/",
+      "logo": "",
+      "tags": "news, music, talk, urban",
+      "language": "English",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 390,
+      "featured": true
+    },
+    {
+      "id": "featured-ramogi-fm",
+      "name": "Ramogi FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/ramogifm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/ramogifm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/ramogifm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.royalmedia.co.ke/brands/ramogi-fm/",
+      "logo": "",
+      "tags": "music, news, talk, vernacular",
+      "language": "Dholuo",
+      "state": "Kisumu",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 380,
+      "featured": true
+    },
+    {
+      "id": "curated-radio-maisha",
+      "name": "Radio Maisha",
+      "streamUrl": "https://atunwadigital.streamguys1.com/radiomaisha/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/radiomaisha/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/radiomaisha"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.standardmedia.co.ke/radiomaisha/",
+      "logo": "",
+      "tags": "music, news, talk, swahili",
+      "language": "Swahili",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 350,
+      "featured": false
+    },
+    {
+      "id": "curated-milele-fm",
+      "name": "Milele FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/milelefm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/milelefm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/milelefm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.mediamaxnetwork.co.ke/milele-fm/",
+      "logo": "",
+      "tags": "music, entertainment, talk, swahili",
+      "language": "Swahili",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 340,
+      "featured": false
+    },
+    {
+      "id": "curated-kameme-fm",
+      "name": "Kameme FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/kamemefm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/kamemefm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/kamemefm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.mediamaxnetwork.co.ke/kameme-fm/",
+      "logo": "",
+      "tags": "music, news, vernacular",
+      "language": "Kikuyu",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 330,
+      "featured": false
+    },
+    {
+      "id": "curated-inooro-fm",
+      "name": "Inooro FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/inoorofm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/inoorofm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/inoorofm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.royalmedia.co.ke/brands/inooro-fm/",
+      "logo": "",
+      "tags": "music, news, vernacular",
+      "language": "Kikuyu",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 320,
+      "featured": false
+    },
+    {
+      "id": "curated-spice-fm",
+      "name": "Spice FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/spicefm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/spicefm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/spicefm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.standardmedia.co.ke/spicefm/",
+      "logo": "",
+      "tags": "talk, music, soul, discussion",
+      "language": "English",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 310,
+      "featured": false
+    },
+    {
+      "id": "curated-radio-47",
+      "name": "Radio 47",
+      "streamUrl": "https://streaming.shoutcast.com/radio-47?ver=690109",
+      "streamUrls": ["https://streaming.shoutcast.com/radio-47?ver=690109"],
+      "streamTypes": ["audio"],
+      "website": "https://radio47.co.ke/",
+      "logo": "",
+      "tags": "news, entertainment, talk, swahili",
+      "language": "Swahili",
+      "state": "Nairobi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 305,
+      "featured": false
+    },
+    {
+      "id": "curated-hot-96",
+      "name": "Hot 96",
+      "streamUrl": "https://atunwadigital.streamguys1.com/hot96/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/hot96/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/hot96"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://hot96.co.ke/",
+      "logo": "",
+      "tags": "music, urban, hits",
+      "language": "English",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 300,
+      "featured": false
+    },
+    {
+      "id": "curated-homeboyz-radio",
+      "name": "Homeboyz Radio",
+      "streamUrl": "https://atunwadigital.streamguys1.com/homeboyzradio/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/homeboyzradio/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/homeboyzradio"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://homeboyzradio.co.ke/",
+      "logo": "",
+      "tags": "hiphop, urban, music",
+      "language": "English",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 290,
+      "featured": false
+    },
+    {
+      "id": "curated-ghetto-radio",
+      "name": "Ghetto Radio",
+      "streamUrl": "https://stream.zeno.fm/kvudezx1h2zuv",
+      "streamUrls": ["https://stream.zeno.fm/kvudezx1h2zuv"],
+      "streamTypes": ["audio"],
+      "website": "https://ghettoradio.co.ke/",
+      "logo": "",
+      "tags": "reggae, sheng, urban, community",
+      "language": "Sheng",
+      "state": "Nairobi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 280,
+      "featured": false
+    },
+    {
+      "id": "curated-kbc-english",
+      "name": "KBC English Service",
+      "streamUrl": "https://stream.zeno.fm/ud2u96xst5quv",
+      "streamUrls": ["https://stream.zeno.fm/ud2u96xst5quv"],
+      "streamTypes": ["audio"],
+      "website": "https://www.kbc.co.ke/",
+      "logo": "",
+      "tags": "news, talk, current affairs",
+      "language": "English",
+      "state": "Nairobi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 270,
+      "featured": false
+    },
+    {
+      "id": "curated-east-fm",
+      "name": "East FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/eastfm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/eastfm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/eastfm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://eastfm.com/",
+      "logo": "",
+      "tags": "music, entertainment, asian",
+      "language": "Hindi",
+      "state": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 260,
+      "featured": false
+    },
+    {
+      "id": "curated-bahari-fm",
+      "name": "Bahari FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/baharifm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/baharifm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/baharifm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.royalmedia.co.ke/",
+      "logo": "",
+      "tags": "music, news, coastal",
+      "language": "Swahili",
+      "state": "Mombasa",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 250,
+      "featured": false
+    },
+    {
+      "id": "curated-egesa-fm",
+      "name": "Egesa FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/egesafm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/egesafm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/egesafm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.royalmedia.co.ke/",
+      "logo": "",
+      "tags": "music, news, vernacular",
+      "language": "Ekegusii",
+      "state": "Kisii",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 240,
+      "featured": false
+    },
+    {
+      "id": "curated-mulembe-fm",
+      "name": "Mulembe FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/mulembefm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/mulembefm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/mulembefm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.royalmedia.co.ke/",
+      "logo": "",
+      "tags": "music, news, vernacular",
+      "language": "Luhya",
+      "state": "Kakamega",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 230,
+      "featured": false
+    },
+    {
+      "id": "curated-musyi-fm",
+      "name": "Musyi FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/musyifm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/musyifm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/musyifm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.royalmedia.co.ke/",
+      "logo": "",
+      "tags": "music, news, vernacular",
+      "language": "Kamba",
+      "state": "Machakos",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 220,
+      "featured": false
+    },
+    {
+      "id": "curated-chamgei-fm",
+      "name": "Chamgei FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/chamgeifm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/chamgeifm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/chamgeifm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.royalmedia.co.ke/",
+      "logo": "",
+      "tags": "music, news, vernacular",
+      "language": "Kalenjin",
+      "state": "Eldoret",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 210,
+      "featured": false
+    },
+    {
+      "id": "curated-wimwaro-fm",
+      "name": "Wimwaro FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/wimwarofm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/wimwarofm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/wimwarofm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.royalmedia.co.ke/",
+      "logo": "",
+      "tags": "music, news, vernacular",
+      "language": "Embu",
+      "state": "Embu",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 200,
+      "featured": false
+    },
+    {
+      "id": "curated-vuuka-fm",
+      "name": "Vuuka FM",
+      "streamUrl": "https://atunwadigital.streamguys1.com/vuukafm/playlist.m3u8",
+      "streamUrls": [
+        "https://atunwadigital.streamguys1.com/vuukafm/playlist.m3u8",
+        "https://atunwadigital.streamguys1.com/vuukafm"
+      ],
+      "streamTypes": ["hls", "audio"],
+      "website": "https://www.royalmedia.co.ke/",
+      "logo": "",
+      "tags": "music, news, vernacular",
+      "language": "Maragoli",
+      "state": "Vihiga",
+      "codec": "AAC",
+      "bitrate": 128,
+      "votes": 190,
+      "featured": false
+    },
+    {
+      "id": "curated-jesus-is-lord",
+      "name": "Jesus Is Lord Radio",
+      "streamUrl": "https://s3.radio.co/s97f38db97/listen",
+      "streamUrls": ["https://s3.radio.co/s97f38db97/listen"],
+      "streamTypes": ["audio"],
+      "website": "https://www.jesusislordradio.info/",
+      "logo": "",
+      "tags": "gospel, christian, worship",
+      "language": "English",
+      "state": "Nairobi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 150,
+      "featured": false
+    },
+    {
+      "id": "curated-radio-waumini",
+      "name": "Radio Waumini 88.3FM",
+      "streamUrl": "https://stream.zeno.fm/gvk894g072quv",
+      "streamUrls": ["https://stream.zeno.fm/gvk894g072quv"],
+      "streamTypes": ["audio"],
+      "website": "https://radiowaumini.org/",
+      "logo": "",
+      "tags": "gospel, christian, catholic, news",
+      "language": "Swahili",
+      "state": "Nairobi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "votes": 145,
+      "featured": false
+    }
+  ]
+}
